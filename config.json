@@ -1,0 +1,4 @@
+{
+	"dbPath": "mongodb://localhost/light-event-rest-api",
+	"port": 8000
+}
